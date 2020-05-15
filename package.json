@@ -39,7 +39,7 @@
     "stylelint:fix": "npm run stylelint -- --fix"
   },
   "dependencies": {
-    "hoist-non-react-statics": "3.3.0",
+    "hoist-non-react-statics": "3.3.2",
     "prop-types": "^15.7.2"
   },
   "devDependencies": {
