@@ -62,7 +62,7 @@
     "cssnano": "4.1.10",
     "ejs": "2.6.2",
     "ejs-cli": "2.0.1",
-    "eslint": "5.15.3",
+    "eslint": "9.39.2",
     "eslint-config-airbnb-base": "13.1.0",
     "eslint-plugin-import": "2.16.0",
     "eslint-plugin-jsx-a11y": "6.2.1",
